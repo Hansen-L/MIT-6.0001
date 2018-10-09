@@ -1,3 +1,1 @@
-# MIT-6.0001
-# MIT-6.0001
-# MIT-6.0001
+Problem set solutions
